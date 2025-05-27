@@ -1,2 +1,2 @@
 # enconstruccion
-landingpage para indicar que el loop termina en una pagina que se esta disenando y por eso ahi el punto de quiebre.
+andingpage para indicar que el loop termina en una página que se esta diseñando y por eso ahí el punto de quiebre.
